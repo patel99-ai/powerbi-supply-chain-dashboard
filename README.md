@@ -1,4 +1,4 @@
-# Supply-Chain-Management-Dashboard-Power-BI
+# Supply Chain Management Dashboard Power BI
 
 ## Project Title
 **Supply Chain Management Dashboard in Power BI**  
