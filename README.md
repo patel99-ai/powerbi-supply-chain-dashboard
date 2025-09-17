@@ -8,7 +8,7 @@ This project provides a comprehensive overview of the supply chain process using
 ---
 
 ## Problem Statement
-Supply chains involve multiple stakeholders — suppliers, manufacturers, distributors, and customers. Tracking performance across these stages is challenging because of siloed data, lack of visibility, and difficulties in analyzing key metrics.  
+Supply chains involve multiple stakeholders, suppliers, manufacturers, distributors, and customers. Tracking performance across these stages is challenging because of siloed data, lack of visibility, and difficulties in analyzing key metrics.  
 
 Companies need clear visibility into:
 - Revenue by product type, SKU, and customer demographics  
